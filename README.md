@@ -9,7 +9,7 @@ Repositorio oficial que contiene el desarrollo de las prácticas correspondiente
 * **Unidad:** Unidad 2
 * **Alumno:** Erik Vladimir Medina Pacheco
 * **Docente:** *Doc. Medina Jimenez Jose Luis*
-* **Horario:** *10:00 - 11:00
+* **Horario:** *10:00 - 11:00*
 *
 
 ---
