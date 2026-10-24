@@ -10,7 +10,6 @@ Repositorio oficial que contiene el desarrollo de las prácticas correspondiente
 * **Alumno:** Erik Vladimir Medina Pacheco
 * **Docente:** *Doc. Medina Jimenez Jose Luis*
 * **Horario:** *10:00 - 11:00*
-*
 
 ---
 
