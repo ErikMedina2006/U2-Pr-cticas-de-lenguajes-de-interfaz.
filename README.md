@@ -8,8 +8,9 @@ Repositorio oficial que contiene el desarrollo de las prácticas correspondiente
 * **Materia:** Lenguajes de Interfaz
 * **Unidad:** Unidad 2
 * **Alumno:** Erik Vladimir Medina Pacheco
-* **Docente:** *(Escribe aquí el nombre de tu docente)*
-* **Horario:** *(Escribe aquí tu horario)*
+* **Docente:** *Doc. Medina Jimenez Jose Luis*
+* **Horario:** *10:00 - 11:00
+*
 
 ---
 
